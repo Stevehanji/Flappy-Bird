@@ -1,0 +1,15 @@
+{
+    "screen": {
+        "screen_width": 432,
+        "screen_height": 768,
+        "caption": "Flappy Bird"
+    },
+    "move": {
+        "velocity_background": 2,
+        "velocity_floor": 2,
+        "gravity": 0.4,
+        "velocity_drop": 7,
+        "velocity_pipe": 5
+    },
+    "high_score": 0
+}

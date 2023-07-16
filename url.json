@@ -1,0 +1,13 @@
+{
+    "background":"assets/background-night.png",
+    "floor":"assets/floor.png",
+    "bird": {
+        "bird1":"assets/yellowbird-upflap.png",
+        "bird2":"assets/yellowbird-midflap.png",
+        "bird3":"assets/yellowbird-downflap.png"
+    },
+    "gameover":"assets/gameover.png",
+    "gamestart":"assets/message.png",
+    "pipe":"assets/pipe-green.png",
+    "icon":"assets/icon.ico"
+}

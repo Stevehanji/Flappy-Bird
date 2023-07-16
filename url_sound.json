@@ -1,0 +1,6 @@
+{
+    "die":"sound/sfx_die.wav",
+    "hit":"sound/sfx_hit.wav",
+    "point":"sound/sfx_point.wav",
+    "wing":"sound/sfx_wing.wav"
+}
